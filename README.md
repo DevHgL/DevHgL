@@ -23,7 +23,7 @@
 </div><br/>
 
 ###
-![snake gif](.github/workflows/blank.yml)
+![snake gif]([.github/workflows/blank.yml](https://github.com/DevHgL/DevHgL/blob/main/.github/workflows/blank.yml))
 ###
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
