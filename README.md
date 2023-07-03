@@ -23,7 +23,4 @@
 </div><br/>
 
 
-![snake gif](https://github.com/DevHgL/DevHgL/blob/output/github-contribution-grid-snake.svg)
-
-
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
