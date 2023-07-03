@@ -1,4 +1,4 @@
-## Hey, welcome to my GitHub! Here are some of my badass skills!
+
 ![Hg GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHgL&show_icons=true&theme=dracula&count_private=true)
 <br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/HugoLeo1227)
