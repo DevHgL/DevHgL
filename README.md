@@ -6,7 +6,7 @@
 <br>
 <br>
 <!-- Título principal -->
-**`Estudante de Cibersegurança`**
+#### **`Estudante de Cibersegurança`**
 
 <!-- Descrição profissional -->
 Estudante de Ciência da Computação (UFF) e Análise e Desenvolvimento de Sistemas (FIAP), com foco em cibersegurança. Desenvolvi projetos práticos como Network Scanner e Intrusion Detection System, utilizando Python e ferramentas de segurança. Possuo conhecimentos em programação (Python, JavaScript, Java) e habilidades em análise de redes. Busco uma oportunidade de estágio para aplicar meus conhecimentos em cibersegurança e crescer na área.
