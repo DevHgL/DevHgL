@@ -64,21 +64,6 @@ Estudante de Ciência da Computação (UFF) e Análise e Desenvolvimento de Sist
   </tr>
 </table>
 
-<!-- Seção de Projetos -->
-### Projetos
-
-- **Network Scanner**  
-  Desenvolvido em Python com Scapy para escanear redes locais, identificar dispositivos conectados, portas abertas e possíveis vulnerabilidades.  
-  [Link para o projeto](https://github.com/DevHgL/network-scanner)
-
-- **Intrusion Detection System**  
-  Implementado em Python para detectar tráfego suspeito em redes, utilizando regras baseadas em padrões de ataque comuns.  
-  [Link para o projeto](https://github.com/DevHgL/intrusion-detection-system)
-
-- **Sistema de Check-in/Check-out**  
-  Projeto full-stack utilizando React no frontend, Python e MongoDB no backend, para registro de entrada e saída de funcionários.  
-  [Link para o projeto](https://github.com/DevHgL/checkin-checkout-system)
-
 <!-- Seção de Estatísticas do GitHub -->
 ### Estatísticas
 
